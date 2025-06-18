@@ -1,0 +1,21 @@
+.language-filter-item {
+  margin: 5px;
+}
+
+.language-filter-button {
+  background-color: transparent;
+  border: none;
+  color: #0f172a;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 16px;
+  cursor: pointer;
+  outline: none;
+}
+
+.active-language-filter {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+  border-radius: 20px;
+}

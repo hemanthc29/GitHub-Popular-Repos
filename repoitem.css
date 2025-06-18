@@ -1,0 +1,47 @@
+.repository-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+  width: 250px;
+}
+
+.repository-image {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 15px;
+}
+
+.repository-name {
+  color: #e73959;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  margin: 0 0 15px;
+  text-align: center;
+}
+
+.stats-container {
+  width: 100%;
+}
+
+.stats-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.stats-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.stats-text {
+  color: #1e293b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  margin: 0;
+}
